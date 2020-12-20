@@ -93,7 +93,7 @@ while True:
             print(f"Beräkning {i + 1}")
             print(f"Först sidan: {s1minne[i]} cm")
             print(f"Andra sidan: {s2minne[i]} cm")
-            print(f"Arean: {areaminne[i]} cm3")
+            print(f"Arean: {areaminne[i]} cm2")
             print(f"Kvadrat: {kvadratminne[i]}")
             #La till en extra print bara för att tydligare visa att programmet fungerar
             print(f"Höjden jag räknat till: {höjdenminne[i]} cm")
