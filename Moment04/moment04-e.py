@@ -8,7 +8,10 @@ python filen. Så sätt blir det lite mer strukturerat och jag slipper ha så my
 
 Jag är väl medveten om att man hade kunnat spara allt i en lista med flera listor i dock är detta mer tydligt i koden. Tycker att använda funktioner var mycket bättre en det jag gjorde innan.
 
-Area, omkrets, kvadrat, volym
+
+
+
+Area, omkrets, kvadrat, höjden, volym
 """
 
 
